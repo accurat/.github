@@ -1,5 +1,5 @@
 ---
-name: Endpoint doc
+name: "\U0001F4DD Endpoint doc"
 about: Document an endpoint
 title: "[API]"
 labels: ''
