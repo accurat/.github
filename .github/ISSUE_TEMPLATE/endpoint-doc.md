@@ -1,9 +1,10 @@
 ---
 name: Endpoint doc
-about: Documentation for specific endpoint
-title: '[API]'
-labels: docs
+about: Document an endpoint
+title: "[API]"
+labels: ''
 assignees: ''
+
 ---
 
 ## ENDPOINT NAME / DESCRIPTION
