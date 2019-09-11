@@ -1,19 +1,15 @@
-#### :boom: Breaking Changes
+Please check the type of change your PR introduces:
+- [ ] Bugfix
+- [ ] Feature
+- [ ] Refactoring / Code style update (no functional changes, no api changes)
+- [ ] Build related changes
+- [ ] Documentation
+- [ ] Other (please describe): 
 
-- 
 
-#### :rocket: Enhancements
+## Does this introduce a breaking change?
 
--
+- [ ] Yes
+- [ ] No
 
-#### :memo: Documentation
-
--
-
-#### :bug: Bug Fix
-
-- 
-
-#### :house: Internal
-
--
+<!-- If this introduces a breaking change, please describe the impact and migration path for existing applications below. -->
