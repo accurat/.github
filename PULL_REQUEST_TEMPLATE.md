@@ -1,4 +1,4 @@
-Please check the type of change your PR introduces:
+**Please check the type of change your PR introduces:**
 - [ ] Bugfix
 - [ ] Feature
 - [ ] Refactoring / Code style update (no functional changes, no api changes)
@@ -7,7 +7,7 @@ Please check the type of change your PR introduces:
 - [ ] Other (please describe): 
 
 
-## Does this introduce a breaking change?
+**Does this introduce a breaking change?**
 
 - [ ] Yes
 - [ ] No
