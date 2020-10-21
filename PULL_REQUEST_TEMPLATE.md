@@ -23,9 +23,18 @@
 ### Screenshots:
 <!-- Screenshot or GIF of the application before the PR and after the PR. -->
 <!-- (copy-pasting images (CMD+V) works in GitHub editor!) -->
-| **BEFORE** | **AFTER** |
+<!-- If not applicable, remove section. -->
+| **OLD** | **NEW** |
 | --- | --- |
 | . | . |
+| . | . | <!-- Add more lines if you have more screenshots -->
+
+<!-- OR -->
+
+### Steps to test:
+<!-- Add a list of steps through the application useful to observe the changes added by the PR. End with "OLD:" and "NEW:" -->
+<!-- If not applicable, remove section. -->
+ - .
 
 
 ### TODO:
